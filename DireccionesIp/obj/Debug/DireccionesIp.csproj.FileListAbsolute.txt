@@ -1,0 +1,5 @@
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\DireccionesIp\DireccionesIp\bin\DireccionesIp.dll
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\DireccionesIp\DireccionesIp\bin\DireccionesIp.pdb
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\DireccionesIp\DireccionesIp\obj\Debug\DireccionesIp.csprojResolveAssemblyReference.cache
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\DireccionesIp\DireccionesIp\obj\Debug\DireccionesIp.dll
+C:\Users\Johana\Documents\8vo Semestre\Curso HTML 5\DireccionesIp\DireccionesIp\obj\Debug\DireccionesIp.pdb
